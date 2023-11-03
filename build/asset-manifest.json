@@ -1,10 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.edce468f.js",
-    "index.html": "/index.html",
-    "main.edce468f.js.map": "/static/js/main.edce468f.js.map"
+    "main.css": "/drewdii.github.io/static/css/main.b9e35db9.css",
+    "main.js": "/drewdii.github.io/static/js/main.c765c458.js",
+    "static/media/remixicon.svg?t=1690730386070": "/drewdii.github.io/static/media/remixicon.db77551b8efc76571c4f.svg",
+    "static/media/remixicon.eot?t=1690730386070": "/drewdii.github.io/static/media/remixicon.53ec05edb4b6864b45b1.eot",
+    "static/media/remixicon.ttf?t=1690730386070": "/drewdii.github.io/static/media/remixicon.4aa0fd158658e2a40e79.ttf",
+    "static/media/remixicon.woff?t=1690730386070": "/drewdii.github.io/static/media/remixicon.affd60ca37df38cfee4f.woff",
+    "static/media/remixicon.woff2?t=1690730386070": "/drewdii.github.io/static/media/remixicon.821a773710130bcf4674.woff2",
+    "index.html": "/drewdii.github.io/index.html",
+    "main.b9e35db9.css.map": "/drewdii.github.io/static/css/main.b9e35db9.css.map",
+    "main.c765c458.js.map": "/drewdii.github.io/static/js/main.c765c458.js.map"
   },
   "entrypoints": [
-    "static/js/main.edce468f.js"
+    "static/css/main.b9e35db9.css",
+    "static/js/main.c765c458.js"
   ]
 }
