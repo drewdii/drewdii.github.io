@@ -18,17 +18,17 @@ import {
 
 function App() {
   const links = [
-    {url: "https://github.com/drewdii", 
+    {url: 'https://github.com/drewdii', 
     icon: AiFillGithub, 
     text: 'github', 
     iconColor: "purple.400", },
 
-    {url: "https://discord.gg/Hab79B98nV", 
+    {url: 'https://discord.gg/Hab79B98nV', 
     icon: RiDiscordFill, 
     text: 'discord', 
     iconColor: 'purple.200',},
 
-    {url: "https://www.youtube.com/@drewdii", 
+    {url: 'https://www.youtube.com/@drewdii', 
     icon: AiFillYoutube, 
     text: 'youtube', 
     iconColor: "red.200", },
