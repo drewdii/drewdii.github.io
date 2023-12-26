@@ -33,7 +33,7 @@ function App() {
     text: 'youtube', 
     iconColor: "red.200", },
 
-    {url: "x.com/@drewdii", 
+    {url: "https://x.com/@drewdii", 
     icon: RiTwitterLine, 
     text: 'twitter', 
     iconColor: "blue.200", },
