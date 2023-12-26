@@ -78,7 +78,7 @@ function App() {
             </Text>
             <List as={motion.ul} variants={parentContainer} intial="hidden" animate="show">
               {links.map(link => (
-                <a href="link.url">
+                <a href={link.url}>
                   <HStack
                     w="15em"
                     h="3em"
