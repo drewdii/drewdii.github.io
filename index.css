@@ -56,7 +56,7 @@ body, h1, h2, h3, p, li, a {
 }
 
 .accordion-item {
-    background-color: #202124;
+    background-color: #000000;
     color: #ddd;
     margin: 1rem 0;
     border-radius: 0.8rem;
@@ -73,7 +73,7 @@ body, h1, h2, h3, p, li, a {
     position: relative;
     cursor: pointer;
 }
-  
+
 .accordion-item-header::after {
     content: "\002B";
     font-size: 2rem;
@@ -96,4 +96,10 @@ body, h1, h2, h3, p, li, a {
     line-height: 1.5rem;
     border-top: 1px solid;
     border-image: linear-gradient(to right, transparent, f7a65a, transparent) 1;
+}
+
+@media(max-width:767px) {
+  html {
+    font-size: 14px;
+  }
 }
