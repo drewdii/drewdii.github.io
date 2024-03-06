@@ -5,7 +5,8 @@
 combine a personal landing page with portolfio website, and you get this project.
 
 ## COMPONENT STRUCTURE
-Using a modular component structure in web development promotes _reusabilityy_, _maintainability_, and _scalability_.
+Using a modular component structure in web development promotes **_reusabilityy_**, **_maintainability_**, and **_scalability_**.
+
 
 ### TECHNOLOGIES
 
