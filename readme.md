@@ -8,8 +8,6 @@
   </kbd>
 </p>
 
----
-
 ## WHAT IS THIS?...
 Currently, this is my pesonal landing page. The goal is to add a portoflio gallery underneath the information accordion. While this feature is being built, enjoy the simple and effective website I used and host with github pages.
 
