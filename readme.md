@@ -1,12 +1,18 @@
 # WELCOME...
 > this is my personal portfolio website
 
+<p align="center"> 
+  <kbd>
+    <a href="https://drewdii.github.io" target="_blank"><img src="content/website-preview.png">
+  </a>
+  </kbd>
+</p>
+
 ## WHAT IS THIS?...
 combine a personal landing page with portolfio website, and you get this project.
 
 ## COMPONENT STRUCTURE
 Using a modular component structure in web development promotes **_reusabilityy_**, **_maintainability_**, and **_scalability_**.
-
 
 ### TECHNOLOGIES
 
