@@ -14,6 +14,12 @@ combine a personal landing page with portolfio website, and you get this project
 ## COMPONENT STRUCTURE
 Using a modular component structure in web development promotes **_reusabilityy_**, **_maintainability_**, and **_scalability_**.
 
+All components are stacked in the center and can be placed on top or below each other. The current structure is:
+1. **profile picture**
+2. **name and bio**
+3. **link grid**
+4. **descirption accordion**
+
 ### TECHNOLOGIES
 
 #### HOSTING:
